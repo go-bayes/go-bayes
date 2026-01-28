@@ -5,7 +5,7 @@ Psychology professor at Victoria University of Wellington, New Zealand.
 ## Links 
 - [University Profile](https://people.wgtn.ac.nz/joseph.bulbulia)
 - [Epic-Lab](https://go-bayes.github.io/epic-lab/)
-- [Global Worship Map](www.placesmap.org/)
+- [Global Worship Map](https://www.placesmap.org/)
 
 ## Research Interests
 - Evolution of Religion
