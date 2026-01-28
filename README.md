@@ -16,8 +16,8 @@ Psychology professor at Victoria University of Wellington, New Zealand.
 ## Software
 - [margot](https://go-bayes.github.io/margot/) R package for asking and answering causal questions with data.
 - [boilerplate](https://go-bayes.github.io/boilerplate/) R package for scaffolding reproducible research.
-- [margo](https://github.com/go-bayes/margo) cli for pre-registering `margot` causal inference workflows.
-- [nzi-cli](https://github.com/go-bayes/nzi-cli) utility for New Zealand based research who want to check the weather, time-zone and currency differences. 
+- [margo](https://github.com/go-bayes/margo) cli for pre-registering `margot` causal inference workflows, built in Rust.
+- [nzi-cli](https://github.com/go-bayes/nzi-cli) utility for New Zealand based research who want to check the weather, time-zone and currency differences, built in Rust. 
 
 ## Personal Interests
 - Running (trail and road)
