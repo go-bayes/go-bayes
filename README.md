@@ -1,8 +1,11 @@
 # Joseph Bulbulia
 
 Professor,[Psychological Sciences at Victoria University of Wellington, New Zealand](https://people.wgtn.ac.nz/joseph.bulbulia)
+
 Director, [Centre for Applied Cross-Cultural Research](https://www.wgtn.ac.nz/cacr)  
+
 Senior Leadership Team, [New Zealand Attitudes and Values Study](https://osf.io/75snb/)
+
 Associate researcher, [Max Plank Institute for Evolutionary Anthropology: Linguistics and Cultural Evolution](https://www.eva.mpg.de/linguistic-and-cultural-evolution/staff/)
 
 ## Links 
