@@ -20,8 +20,8 @@ Associate researcher, [Max Plank Institute for Evolutionary Anthropology: Lingui
 - [Global Worship Map](https://www.placesmap.org/)
 
 ## Software
-- [Global Worship Map](https://www.placesmap.org/)
 - [margot](https://go-bayes.github.io/margot/) R package for asking and answering causal questions with data.
+- [causalworkshop](https://go-bayes.github.io/causalworkshop) 
 - [margo](https://github.com/go-bayes/margo) cli for pre-registering `margot` causal inference workflows, built in Rust.
 - [boilerplate](https://go-bayes.github.io/boilerplate/) R package for scaffolding reproducible research.
 - [nzi-cli](https://github.com/go-bayes/nzi-cli) utility for New Zealand based research who want to check the weather, time-zone and currency differences, built in Rust. 
