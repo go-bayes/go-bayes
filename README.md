@@ -8,7 +8,7 @@ Associate researcher, [Max Plank Institute for Evolutionary Anthropology: Lingui
 ## Links 
 - [University Profile](https://people.wgtn.ac.nz/joseph.bulbulia)
 - [CV](https://josephbulbulia.netlify.app/cv/cv)
-- [Lab](https://go-bayes.github.io/accept/)
+- [Lab](https://go-bayes.github.io/ottolab/)
 - [ORCID](https://orcid.org/0000-0002-5861-2056)
 
 ## Research Interests
